@@ -13,7 +13,7 @@ A real-time AI news analysis chatbot built for the AWS AI Agent Global Hackathon
 
 This project is built on Amazon Bedrock Agent Core as the backend engine and Streamlit Cloud for hosting the frontend. Please refer to the architecture diagram below for a detailed view of the data flow and component interactions.
 
-![Architecture Diagram](https://raw.githubusercontent.com/SHARKy-0/Bedrock-AI-News-Assistant/main/YOUR_IMAGE_NAME.png)
+![Architecture Diagram](https://raw.githubusercontent.com/SHARKy-0/Bedrock-AI-News-Assistant/main/architecture.png)
 
 ### 🛠️ Tech Stack
 
